@@ -1,12 +1,14 @@
 # Tonpapa 🎉
 
-![Profil Banner](bloc-titan-bloc-beton.png)
+![Profil Banner](ornoircover.webp)
 
-Bonjour à tous! 👋 Je suis **tonpapa**, un « mangeur d'ordinateurs » vivant dans une poubelle 🗑️. J'adore coder et m'amuser avec la technologie! 💻✨
+_____________________________
+                 /   :::::::::::::::::::::::::|
+    ____________/   ::::::::::::::::::::::::::|
+   |_______|   /   :::::::::::::::::::::::::::|
+           \__/_______________________________|
+              \      /      /      /      /
+               \____/______/______/______/
 
-## À propos de moi:
-- 🚀 Passionné par la programmation
-- 🌈 Amoureux des couleurs et des designs vibrants
-- 🍔 Éternellement en quête de la meilleure pizza 🍕
 
-Merci de visiter mon profil! N'hésitez pas à explorer mes projets. 😄😊
+bwah bwah bwah
